@@ -107,4 +107,3 @@ df.select_dtypes{include='object'}
 #memilih kolom bertipe data datetime
 df.select_dtypes{include='odatetime'}
 #memilih kolom dengan kombinasi tipe data
-df.select_dtypes{include=['number','object']}
