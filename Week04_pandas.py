@@ -1,4 +1,4 @@
-# Nama : Alex simon sianturi 
+# Nama : Alex simon sianturii 
 # NRP  : 2473036
 # pandas week 4
 
