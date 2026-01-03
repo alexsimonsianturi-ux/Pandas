@@ -1,6 +1,6 @@
 # Nama : Alex simon sianturi 
 # NRP  : 2473036
-# pandas week 8
+# pandas week 08
 
 rint(pd.__version__)
 print(np.__version__)
