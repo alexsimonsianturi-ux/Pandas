@@ -1,4 +1,4 @@
-# Nama : Alex simon sianturi 
+# Nama : Alex simonn sianturi 
 # NRP  : 2473036
 # pandas week 2
 import pandas as pd
