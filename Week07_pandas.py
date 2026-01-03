@@ -1,4 +1,4 @@
-# Nama : Alex simon sianturi 
+# Nama : Alex siimon sianturi 
 # NRP  : 2473036
 # pandas week 7
 
