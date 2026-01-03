@@ -1,6 +1,6 @@
 # Nama : Alex simon sianturi 
 # NRP  : 2473036
-# pandas week 9
+# pandas week 09
 
 import pandas as pd
 import numpy as np
