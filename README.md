@@ -1,1 +1,1 @@
-Tempat menyimpan latihan panda
+Tempat menyimpan latihan pandas
